@@ -2,4 +2,4 @@
 Achieve user session management by spring session.
 
 # Tools
-Eclipse, Maven, spring boot.
+Eclipse, Postman, Redis, Maven, spring boot.
