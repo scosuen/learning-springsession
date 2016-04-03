@@ -3,3 +3,6 @@ Achieve user session management by spring session.
 
 # Tools
 Eclipse, Postman, Redis, Maven, spring boot.
+
+# Reference
+http://itindex.net/detail/55368-spring-boot-redis
