@@ -6,3 +6,5 @@ Eclipse, Postman, Redis, Maven, spring boot.
 
 # Reference
 http://itindex.net/detail/55368-spring-boot-redis
+
+[spring-session](https://github.com/spring-projects/spring-session)
